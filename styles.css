@@ -1,9 +1,27 @@
 /* styles.css */
-
-h1 {
-    color: white;
-    background-color: black;
-    text-align: center;
-
+body {
+    background-color: rgb(236, 206, 169);
 }
+
+* {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    /* width: 40%; */
+}
+
+strong {
+    color: rgb(131, 41, 41);
+}
+
+h1, h2 {
+    color: white;
+    background-color: rgb(158, 130, 96);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 
